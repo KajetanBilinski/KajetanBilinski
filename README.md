@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kajetan</h1>
-<h3 align="center">I'm a Fullstack Developer</h3>
+<h3 align="center">I'm a Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajetanbilinski&label=Profile%20views&color=0e75b6&style=flat" alt="kajetanbilinski" /> </p>
 
@@ -25,4 +25,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kajetanbilinski&theme=tokyonight&hide_title=true" alt="kajetanbilinski" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kajetanbilinski&theme=highcontrast&hide_title=true" alt="kajetanbilinski" /></p>
