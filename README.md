@@ -25,4 +25,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kajetanbilinski&" alt="kajetanbilinski" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kajetanbilinski&theme=tokyonight&hide_title=true" alt="kajetanbilinski" /></p>
