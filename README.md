@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Hibernate Project](https://github.com/KajetanBilinski/Hibernate)
 
-- 🌱 I’m currently learning **Dart, React, HTML, Python**
+- 🌱 I’m currently learning **Dart, React, Python, Hibernate**
 
 - 🤝 I’m looking for help with **C++**
 
