@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajetanbilinski&label=Profile%20views&color=0e75b6&style=flat" alt="kajetanbilinski" /> </p>
 
-- 🔭 I’m currently working on [PKS-ASP.NET-Core-DF](https://github.com/KajetanBilinski/PKS-ASP.NET-Core-DF)
+- 🔭 I’m currently working on [Hibernate Project]([https://github.com/KajetanBilinski/Hibernate])
 
 - 🌱 I’m currently learning **Dart, React, HTML, Python**
 
