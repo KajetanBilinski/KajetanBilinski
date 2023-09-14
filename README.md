@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Beskid Chocolate App](https://github.com/KajetanBilinski/BeskidChocolateApplication)
 
-- 🌱 I’m currently learning **Dart, React, Python, Hibernate**
+- 🌱 I’m currently learning **Dart, React, Python, Flutter**
 
 - 🤝 I’m looking for help with **C++**
 
