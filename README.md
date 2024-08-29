@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Dart, React, Python, Flutter**
 
-- 🤝 I’m looking for help with **C++**
-
-- 💬 Ask me about **Java, C#, Docker**
+- 💬 Ask me about **C#, Java, .NET**
 
 - 📫 How to reach me **kaje.bile@gmail.com**
 
