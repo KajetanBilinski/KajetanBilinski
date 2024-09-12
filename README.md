@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Dating App](https://github.com/KajetanBilinski/datingapp)
 
-- 🌱 I’m currently learning **Dart, React, Python, Flutter**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **C#, Java, .NET**
 
