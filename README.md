@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajetanbilinski&label=Profile%20views&color=0e75b6&style=flat" alt="kajetanbilinski" /> </p>
 
-- 🔭 I’m currently working on [rpg-companion]([https://github.com/pmroz1/rpg-companion])
+- 🔭 I’m currently working on [rpg-companion](https://github.com/pmroz1/rpg-companion)
 
 - 🌱 I’m currently learning **Angular**
 
