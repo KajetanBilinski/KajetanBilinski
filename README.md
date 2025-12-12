@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **C#, Java, .NET**
+- 💬 Ask me about **C#, .NET, Docker**
 
 - 📫 How to reach me **kaje.bile@gmail.com**
-
-- ⚡ Fun fact **Naruto > One Piece**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
