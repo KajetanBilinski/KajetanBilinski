@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **C#, .NET, Docker**
+- 💬 Ask me about **C#, .NET 5+, Docker**
 
 - 📫 How to reach me **kaje.bile@gmail.com**
 
