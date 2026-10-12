@@ -23,7 +23,6 @@ I'm a **Full Stack .NET Developer with 4+ years of commercial experience** build
 ![REST API](https://img.shields.io/badge/REST%20API-374151?style=flat-square)
 ![Microservices](https://img.shields.io/badge/Microservices-374151?style=flat-square)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square)
-![MQTTnet](https://img.shields.io/badge/MQTTnet-660066?style=flat-square)
 
 **Frontend & mobile**
 
