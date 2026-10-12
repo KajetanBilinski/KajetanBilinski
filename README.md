@@ -71,7 +71,7 @@ I'm a **Full Stack .NET Developer with 4+ years of commercial experience** build
 ## Certifications
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/FM3B8H8W5WEN">
-  <img src="https://img.shields.io/badge/Coursera-View%20Specialization%20Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera specialization certificate" />
+  <img src="https://img.shields.io/badge/Coursera-View%20Specialization%20Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Google Cybersecurity" />
 </a>
 
 ## Let's connect
