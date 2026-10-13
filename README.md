@@ -2,7 +2,6 @@
 <h3 align="center">Full Stack .NET Developer | C# • ASP.NET Core • Angular</h3>
 
 <p align="center">
-  <a href="https://github.com/kajetanbilinski"><img src="https://komarev.com/ghpvc/?username=kajetanbilinski&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></a>
   <a href="https://www.linkedin.com/in/kajetan-biliński-2954a3240/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kaje.bile@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
