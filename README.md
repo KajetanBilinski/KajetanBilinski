@@ -11,7 +11,7 @@
 
 ## About me
 
-I'm a **Full Stack .NET Developer with 4+ years of commercial experience** building, maintaining and integrating business applications and distributed systems.
+I'm a **Full Stack .NET Developer with over 4 years of commercial experience** building, maintaining and integrating business applications and distributed systems.
 
 ## Tech stack
 
