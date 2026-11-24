@@ -13,6 +13,8 @@
 
 I'm a **Full Stack .NET Developer with over 4 years of commercial experience** building, maintaining and integrating business applications and distributed systems.
 
+[![Portfolio](https://shields.io)](https://kajetanbilinski.github.io/)
+
 ## Tech stack
 
 **Backend & architecture**
