@@ -13,7 +13,7 @@
 
 I'm a **Full Stack .NET Developer with over 4 years of commercial experience** building, maintaining and integrating business applications and distributed systems.
 
-[![Portfolio](https://shields.io)](https://kajetanbilinski.github.io/)
+Check out my portfolio here: [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://kajetanbilinski.github.io/)
 
 ## Tech stack
 
@@ -76,8 +76,3 @@ I'm a **Full Stack .NET Developer with over 4 years of commercial experience** b
 <a href="https://www.coursera.org/account/accomplishments/specialization/FM3B8H8W5WEN">
   <img src="https://img.shields.io/badge/Coursera-View%20Specialization%20Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Google Cybersecurity" />
 </a>
-
-## Let's connect
-
-- [LinkedIn](https://www.linkedin.com/in/kajetan-biliński-2954a3240/)
-- [Email](mailto:kaje.bile@gmail.com)
